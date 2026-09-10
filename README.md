@@ -1,8 +1,8 @@
-# VoxCPM Plus
+# VoxCPM2 Plus
 
 > VoxCPM2 第三方整合版 · 由 [Lemon-X](https://space.bilibili.com/3690974001761138) 制作
 
-**VoxCPM Plus 版本：v2.15.0**
+**VoxCPM2 Plus 版本：v2.15.0**
 
 基于 [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) 的 Windows 便携式语音合成整合包，
 在余子越制作的 YZY 启动器与原整合包基础上二次修改。开箱即用，无需配置 Python 环境。
@@ -27,7 +27,7 @@
 
 | 目录 | 内容 |
 | --- | --- |
-| `src/` | VoxCPM Plus 的 Python 源码（对应整合包 `win-unpacked/python/` 下的同名文件） |
+| `src/` | VoxCPM2 Plus 的 Python 源码（对应整合包 `win-unpacked/python/` 下的同名文件） |
 | `src/voxcpm/` | 相对上游 OpenBMB/VoxCPM 修改过的文件，文件头带 Apache 4(b) 修改声明 |
 | `launcher/` | 启动脚本与使用说明 |
 | `LICENSES/` | 第三方模型许可证全文 |
