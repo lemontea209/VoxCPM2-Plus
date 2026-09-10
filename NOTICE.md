@@ -1,6 +1,6 @@
 # NOTICE
 
-**VoxCPM Plus 版本：v2.15.0**
+**VoxCPM2 Plus 版本：v2.15.0**
 
 ## 项目来源
 
@@ -15,7 +15,7 @@ FFmpeg、Electron 及其他第三方项目**不存在隶属或背书关系**。
 - **原始模型与推理代码：** VoxCPM，版权归 OpenBMB 所有，依 Apache License 2.0 授权。
   许可证全文见 `win-unpacked/python/LICENSE`。
 - **YZY 启动器与原整合包：** 余子越（[哔哩哔哩 余子越Talk](https://space.bilibili.com/3493266750179909)）。
-- **VoxCPM Plus：** Lemon-X（[哔哩哔哩 Lemon-X](https://space.bilibili.com/3690974001761138)）。
+- **VoxCPM2 Plus：** Lemon-X（[哔哩哔哩 Lemon-X](https://space.bilibili.com/3690974001761138)）。
 
 余子越已单独授权 Lemon-X 将本二次修改整合包发布到 GitHub。
 
